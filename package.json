@@ -18,7 +18,10 @@
   ],
   "author": "Raushan Raj",
   "devDependencies": {
-        "nodemon": "^3.1.9"
-      },
-  "license": "ISC"
+    "nodemon": "^3.1.9"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.4.2"
+  }
 }
